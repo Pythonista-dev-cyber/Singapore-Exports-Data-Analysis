@@ -31,15 +31,16 @@ Python • CSV • NumPy • Matplotlib • Data Analysis
 pip install numpy matplotlib
 ```
 
-3.choose a directory and create a folder.
+3.open cmd with win + r, choose a directory and create a folder.
 
 4.go to the project directory.
 
-5.clone the project on a new terminal with
+5.clone the project on the terminal with
 ```bash
 git clone https://github.com/Pythonista-dev-cyber/Singapore-Exports-Data-Analysis.git
 
 ```
+and type code . to open vs code
 
 
 6.make sure both sg_exports_analysis.py and sgexports_dataset 2.csv are in the same folder.
