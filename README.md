@@ -46,7 +46,7 @@ git clone https://github.com/Pythonista-dev-cyber/Singapore-Exports-Data-Analysi
 
 7.run this 
 ```bash
-python sg_exports_analysis.py
+python Project.py
 ```
 on the terminal.
 
