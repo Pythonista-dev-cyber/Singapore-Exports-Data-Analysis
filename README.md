@@ -27,8 +27,6 @@ Python • CSV • NumPy • Matplotlib • Data Analysis
 1. make sure Python 3 is installed on your computer.
 
 2. Install the required libraries:
-
-```bash
 pip install numpy matplotlib
 
 3.choose a directory and create a folder.
@@ -36,7 +34,6 @@ pip install numpy matplotlib
 4.go to the project directory.
 
 5.clone the project on a new terminal with
-```bash
 git clone https://github.com/Pythonista-dev-cyber/Singapore-Exports-Data-Analysis.git
 
 
