@@ -24,22 +24,31 @@ Python • CSV • NumPy • Matplotlib • Data Analysis
 
 ## How to Run
 
-1. make sure Python 3 is installed on your computer.
+1.make sure Python 3 is installed on your computer.
 
-2. Install the required libraries:
+2.Install the required libraries:
+```bash
 pip install numpy matplotlib
+```
 
 3.choose a directory and create a folder.
 
 4.go to the project directory.
 
 5.clone the project on a new terminal with
+```bash
 git clone https://github.com/Pythonista-dev-cyber/Singapore-Exports-Data-Analysis.git
+
+```
 
 
 6.make sure both sg_exports_analysis.py and sgexports_dataset 2.csv are in the same folder.
 
-7.run this python sg_exports_analysis.py on the terminal.
+7.run this 
+```bash
+python sg_exports_analysis.py
+```
+on the terminal.
 
 5.Follow the on screen menu.
 
